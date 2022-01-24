@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CueTextBox" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAiAAAAAAIAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>CueTextBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="diploma.DB">
+    <Position X="2.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAABAAAABAACAAAAAAAAAAAgAAgAAAAA=</HashCode>
+      <FileName>DB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="diploma.Director">
+    <Position X="5.75" Y="6.75" Width="1.5" />
+    <AssociationLine Name="Form_group_3" Type="diploma.Form_group_3">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.047" Y="0.282" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAEAAAAgEAAAAAAAAAAAAAAAiAAAAA=</HashCode>
+      <FileName>Director.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Form_group_3" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="diploma.Form_book_create" Collapsed="true">
+    <Position X="8.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARgAAAAAACAAAAAIAACAAAACIAAAAAAiAAAgAAAAAAA=</HashCode>
+      <FileName>Form_book_create.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="diploma.Form_book_edit" Collapsed="true">
+    <Position X="10.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMEAAApwKAIAhAIAAmiMIgjAABKQQSCAAABAQgABQY=</HashCode>
+      <FileName>Form_book_edit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="diploma.Form_book_instances_add" Collapsed="true">
+    <Position X="11.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAQAgCAAAAAACACAAAADAAAIAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Form_book_instances_add.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="diploma.Form_book_instances_edit" Collapsed="true">
+    <Position X="11.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICAAEAAAAECAAAACgAAAACACAAAJAAAABCA=</HashCode>
+      <FileName>Form_book_instances_edit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="diploma.Form_group_2" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>D6EEICO0AiAgbK6pDIHMAQQKqYAyQiHTKRcwIBBAjiU=</HashCode>
+      <FileName>Form_group_2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="diploma.Form_group_3" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAADYwBCAAAECAAACAAAACAAACQgCKATAAAACAAAQ=</HashCode>
+      <FileName>Form_group_3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="diploma.Form_main" Collapsed="true">
+    <Position X="3.75" Y="4.5" Width="1.5" />
+    <AssociationLine Name="Form_registration" Type="diploma.Form_registration">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.024" Y="0.05" Height="0.182" Width="1.342" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AHIEEEQAjmAAjMwABCDRAACKngIwUBGKm1YAAgEAIFU=</HashCode>
+      <FileName>Form_main.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Form_registration" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="diploma.Form_registration" Collapsed="true">
+    <Position X="3.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGIAAAACBAAQFIAACQAIQCCgAAIAQCEAAIgEAJgAA=</HashCode>
+      <FileName>Form_registration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="diploma.Form_user_create" Collapsed="true">
+    <Position X="8.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEACAAACAAAAAAAgCAgAICCAAAAEAiAAAAAAEAAAE=</HashCode>
+      <FileName>Form_user_create.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="diploma.Form_user_debts_add" Collapsed="true">
+    <Position X="11.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgACAgAEIAAASAAAACAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Form_user_debts_add.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="diploma.Form_user_profile_edit" Collapsed="true">
+    <Position X="8.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>aAgAkgCAAOQsAECgAgCiAAIShAAAAACiBgYAoAwIEgA=</HashCode>
+      <FileName>Form_user_profile_edit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="diploma.Librarian">
+    <Position X="13.75" Y="3.25" Width="1.5" />
+    <AssociationLine Name="Form_group_2" Type="diploma.Form_group_2" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="13.75" Y="4.062" />
+        <Point X="8.25" Y="4.062" />
+        <Point X="8.25" Y="4.5" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.16" Y="0.12" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>ICAAACAAEAAAAAAAAACwAIAAAQBAAAgSBGAAADgEAAA=</HashCode>
+      <FileName>Librarian.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Form_group_2" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="diploma.Program" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <AssociationLine Name="Form_main" Type="diploma.Form_main">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.11" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Resources" Type="diploma.Properties.Resources">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.086" Y="0.144" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIgAAAAAAAAAAAAAAAAAAAAAAgAAABCAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Form_main" />
+      <Property Name="Resources" />
+      <Property Name="Settings" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="diploma.User">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAgAAAKAAAgAgAAAAAAABAAACAAAgAAQAAgAAFgA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="diploma.Working">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABBACBAAAAAAAAAAAAAACABAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Working.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="diploma.Properties.Resources" Collapsed="true">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="diploma.Properties.Settings" Collapsed="true">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,144 @@
+C:\Users\Андрей\Desktop\Диплом\diploma\diploma\bin\Debug\diploma.exe.config
+C:\Users\Андрей\Desktop\Диплом\diploma\diploma\bin\Debug\diploma.exe
+C:\Users\Андрей\Desktop\Диплом\diploma\diploma\bin\Debug\diploma.pdb
+C:\Users\Андрей\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.exe
+C:\Users\Андрей\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.pdb
+C:\Users\Андрей\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.Form_registration.resources
+C:\Users\Андрей\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Диплом\diploma\diploma\bin\Debug\MySql.Data.dll
+C:\Users\Андрей\Desktop\Диплом\diploma\diploma\bin\Debug\Google.Protobuf.dll
+C:\Users\Андрей\Desktop\Диплом\diploma\diploma\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Андрей\Desktop\Диплом\diploma\diploma\bin\Debug\Renci.SshNet.dll
+C:\Users\Андрей\Desktop\Диплом\diploma\diploma\bin\Debug\MySql.Data.xml
+C:\Users\Андрей\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.Form_main.resources
+C:\Users\Андрей\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.Form_group_2.resources
+C:\Users\Андрей\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.Form_group_3.resources
+C:\Users\user\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.Form_group_2.resources
+C:\Users\user\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.Form_group_3.resources
+C:\Users\user\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.Form_main.resources
+C:\Users\user\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.Form_registration.resources
+C:\Users\user\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.Form_user_create.resources
+C:\Users\user\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.Form_use_profile_edit.resources
+C:\Users\user\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.Properties.Resources.resources
+C:\Users\user\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.exe
+C:\Users\user\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.pdb
+C:\Users\user\Desktop\Диплом\diploma\diploma\bin\Debug\diploma.exe.config
+C:\Users\user\Desktop\Диплом\diploma\diploma\bin\Debug\diploma.exe
+C:\Users\user\Desktop\Диплом\diploma\diploma\bin\Debug\diploma.pdb
+C:\Users\user\Desktop\Диплом\diploma\diploma\obj\Debug\diploma.Form_user_debts_add.resources
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\bin\Debug\diploma.exe.config
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\obj\Debug\diploma.exe
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\obj\Debug\diploma.pdb
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\bin\Debug\diploma.exe
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\bin\Debug\diploma.pdb
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\bin\Debug\MySql.Data.dll
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\bin\Debug\Google.Protobuf.dll
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\bin\Debug\Renci.SshNet.dll
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\bin\Debug\MySql.Data.xml
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\obj\Debug\diploma.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\obj\Debug\diploma.Form_group_2.resources
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\obj\Debug\diploma.Form_group_3.resources
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\obj\Debug\diploma.Form_main.resources
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\obj\Debug\diploma.Form_registration.resources
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\obj\Debug\diploma.Form_user_create.resources
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\obj\Debug\diploma.Form_user_debts_add.resources
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\obj\Debug\diploma.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\obj\Debug\diploma.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\obj\Debug\diploma.Form_book_create.resources
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\obj\Debug\diploma.Form_book_edit.resources
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\obj\Debug\diploma.Form_book_instances_add.resources
+C:\Users\Андрей\Desktop\Диплом 0.02\diploma\diploma\obj\Debug\diploma.Form_user_profile_edit.resources
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\bin\Debug\diploma.exe.config
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\obj\Debug\diploma.exe
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\obj\Debug\diploma.pdb
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\bin\Debug\diploma.exe
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\bin\Debug\diploma.pdb
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\bin\Debug\MySql.Data.dll
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\bin\Debug\Google.Protobuf.dll
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\bin\Debug\Renci.SshNet.dll
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\bin\Debug\MySql.Data.xml
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\obj\Debug\diploma.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\obj\Debug\diploma.Form_book_create.resources
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\obj\Debug\diploma.Form_book_edit.resources
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\obj\Debug\diploma.Form_book_instances_add.resources
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\obj\Debug\diploma.Form_group_2.resources
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\obj\Debug\diploma.Form_group_3.resources
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\obj\Debug\diploma.Form_main.resources
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\obj\Debug\diploma.Form_registration.resources
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\obj\Debug\diploma.Form_user_create.resources
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\obj\Debug\diploma.Form_user_debts_add.resources
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\obj\Debug\diploma.Form_user_profile_edit.resources
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\obj\Debug\diploma.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Диплом 0.04\diploma\diploma\obj\Debug\diploma.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\bin\Debug\diploma.exe.config
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\obj\Debug\diploma.exe
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\obj\Debug\diploma.pdb
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\bin\Debug\diploma.exe
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\bin\Debug\diploma.pdb
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\bin\Debug\Renci.SshNet.dll
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\obj\Debug\diploma.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\obj\Debug\diploma.Form_book_create.resources
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\obj\Debug\diploma.Form_book_edit.resources
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\obj\Debug\diploma.Form_book_instances_add.resources
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\obj\Debug\diploma.Form_group_2.resources
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\obj\Debug\diploma.Form_group_3.resources
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\obj\Debug\diploma.Form_main.resources
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\obj\Debug\diploma.Form_registration.resources
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\obj\Debug\diploma.Form_user_create.resources
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\obj\Debug\diploma.Form_user_debts_add.resources
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\obj\Debug\diploma.Form_user_profile_edit.resources
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\obj\Debug\diploma.Properties.Resources.resources
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\obj\Debug\diploma.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Диплом 0.05\diploma\diploma\obj\Debug\diploma.Form_book_instances_edit.resources
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\bin\Debug\diploma.exe.config
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\obj\Debug\diploma.exe
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\obj\Debug\diploma.pdb
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\bin\Debug\diploma.exe
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\bin\Debug\diploma.pdb
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\bin\Debug\Renci.SshNet.dll
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\obj\Debug\diploma.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\obj\Debug\diploma.Form_book_create.resources
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\obj\Debug\diploma.Form_book_edit.resources
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\obj\Debug\diploma.Form_book_instances_add.resources
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\obj\Debug\diploma.Form_book_instances_edit.resources
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\obj\Debug\diploma.Form_group_2.resources
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\obj\Debug\diploma.Form_group_3.resources
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\obj\Debug\diploma.Form_main.resources
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\obj\Debug\diploma.Form_registration.resources
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\obj\Debug\diploma.Form_user_create.resources
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\obj\Debug\diploma.Form_user_debts_add.resources
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\obj\Debug\diploma.Form_user_profile_edit.resources
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\obj\Debug\diploma.Properties.Resources.resources
+C:\Users\user\Desktop\Диплом (финальная версия)\diploma\diploma\obj\Debug\diploma.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\bin\Debug\diploma.exe.config
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\obj\Debug\diploma.exe
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\obj\Debug\diploma.pdb
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\bin\Debug\diploma.exe
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\bin\Debug\diploma.pdb
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\bin\Debug\Renci.SshNet.dll
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\obj\Debug\diploma.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\obj\Debug\diploma.Form_book_create.resources
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\obj\Debug\diploma.Form_book_edit.resources
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\obj\Debug\diploma.Form_book_instances_add.resources
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\obj\Debug\diploma.Form_book_instances_edit.resources
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\obj\Debug\diploma.Form_group_2.resources
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\obj\Debug\diploma.Form_group_3.resources
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\obj\Debug\diploma.Form_main.resources
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\obj\Debug\diploma.Form_registration.resources
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\obj\Debug\diploma.Form_user_create.resources
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\obj\Debug\diploma.Form_user_debts_add.resources
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\obj\Debug\diploma.Form_user_profile_edit.resources
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\obj\Debug\diploma.Properties.Resources.resources
+C:\Users\user\Desktop\Диплом (финальная версия) P.S. Исправлена БД и подправлена под нее программа\diploma\diploma\obj\Debug\diploma.csproj.GenerateResource.Cache

@@ -1,0 +1,54 @@
+CREATE TABLE users (
+  id int(11) PRIMARY KEY AUTO_INCREMENT,
+  user_login varchar(32) NOT NULL,
+  user_password varchar(32) NOT NULL,
+  user_fio varchar(128) NOT NULL,
+  user_email varchar(64) NOT NULL,
+  user_phone varchar(12) NOT NULL,
+  user_group varchar(16) NOT NULL DEFAULT 'Пользователь'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+CREATE TABLE readers (
+  id int(11) PRIMARY KEY AUTO_INCREMENT,
+  user_id int(11) NOT NULL,
+  library_card int(11) UNSIGNED DEFAULT NULL,
+  CONSTRAINT readers_ibfk_1 
+  FOREIGN KEY (user_id) REFERENCES users (id) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+CREATE TABLE books (
+  code_book int(11) PRIMARY KEY AUTO_INCREMENT,
+  title varchar(128) NOT NULL,
+  author varchar(64) NOT NULL,
+  authors_other varchar(256) DEFAULT NULL,
+  year_of_publ int(4) UNSIGNED NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+CREATE TABLE instances (
+  code_instances int(11) PRIMARY KEY AUTO_INCREMENT,
+  isbn_issn varchar(32) NOT NULL,
+  state_instances varchar(128) NOT NULL,
+  code_book int(11) NOT NULL,
+  CONSTRAINT instances_ibfk_1
+  FOREIGN KEY (code_book) REFERENCES books (code_book)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+CREATE TABLE issuance (
+  code_issuing int(11) PRIMARY KEY AUTO_INCREMENT,
+  code_instances int(11) NOT NULL,
+  readers_id int(11) NOT NULL,
+  date_of_issue date NOT NULL,
+  date_of_completion date NOT NULL,
+  CONSTRAINT issuance_ibfk_1 
+  FOREIGN KEY (code_instances) REFERENCES instances (code_instances),
+  CONSTRAINT issuance_ibfk_2 
+  FOREIGN KEY (readers_id) REFERENCES readers (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+CREATE TABLE settings (
+  id int(3) PRIMARY KEY AUTO_INCREMENT,
+  news varchar(5000) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
+
